@@ -199,20 +199,23 @@ header {
   }
 }
 
-.progress-line .html {
+.progress-line .ai-ml {
+  width: 85%;
+}
+.progress-line .react-native-expo {
+  width: 90%;
+}
+.progress-line .nextjs {
   width: 80%;
 }
-.progress-line .css {
+.progress-line .aspnet {
+  width: 75%;
+}
+.progress-line .blazor {
   width: 70%;
 }
-.progress-line .javascript {
-  width: 50%;
-}
-.progress-line .react-native {
-  width: 70%;
-}
-.progress-line .react {
-  width: 50%;
+.progress-line .wordpress {
+  width: 80%;
 }
 
 .bar .progress-line span::before {
@@ -241,20 +244,23 @@ header {
   border-radius: 3px;
 }
 
-.progress-line .html::after {
+.progress-line .ai-ml::after {
+  content: "85%";
+}
+.progress-line .react-native-expo::after {
+  content: "90%";
+}
+.progress-line .nextjs::after {
   content: "80%";
 }
-.progress-line .css::after {
+.progress-line .aspnet::after {
+  content: "75%";
+}
+.progress-line .blazor::after {
   content: "70%";
 }
-.progress-line .javascript::after {
-  content: "50%";
-}
-.progress-line .react-native::after {
-  content: "70%";
-}
-.progress-line .react::after {
-  content: "50%";
+.progress-line .wordpress::after {
+  content: "80%";
 }
 
 .navbar.solid {
@@ -329,6 +335,7 @@ header {
   border-radius: 5%;
   box-shadow: 0 20px 10px -10px rgb(37 41 52 / 31%);
   margin-right: 1.7rem;
+  background-color: white;
 }
 
 .proj-1 .proj1-details{
@@ -400,6 +407,7 @@ header {
   border-radius: 5%;
   box-shadow: 0 20px 10px -10px rgb(37 41 52 / 31%);
   margin-right: 1.7rem;
+  background-color: white;
 }
 
 .proj-2 .proj2-details{
@@ -471,6 +479,7 @@ header {
     border-radius: 5%;
     box-shadow: 0 20px 10px -10px rgb(37 41 52 / 31%);
     margin-right: 1.7rem;
+    background-color: white;
   }
   
   .proj-3 .proj3-details{
@@ -639,6 +648,7 @@ header {
     height: 230px;
     width: 290px;
     margin-bottom: 0.5rem;
+    background-color: white;
   }
   
   .proj-2{
@@ -651,6 +661,7 @@ header {
     height: 250px;
     width: 290px;
     margin-bottom: 0.5rem;
+    background-color: white;
   }
   .proj-3{
     display: flex;
@@ -662,6 +673,7 @@ header {
     height: 250px;
     width: 290px;
     margin-bottom: 0.5rem;
+    background-color: white;
   }
 
   .work-arrow-2 a {
@@ -717,6 +729,7 @@ header {
     height: 240px;
     width: 290px;
     margin-bottom: 0.5rem;
+    background-color: white;
   }
   
   .proj-2{
@@ -729,6 +742,7 @@ header {
     height: 240px;
     width: 290px;
     margin-bottom: 0.5rem;
+    background-color: white;
   }
   .proj-3{
     display: flex;
@@ -740,6 +754,7 @@ header {
     height: 240px;
     width: 290px;
     margin-bottom: 0.5rem;
+    background-color: white;
   }
 
   .work-arrow-2 a {
